@@ -1,6 +1,6 @@
 # dating-app
 
-Dating App build with below technologies:
+Dating App build with below technologies-
 1. .Net Core
 2. Angular
 3. Entity Framework
